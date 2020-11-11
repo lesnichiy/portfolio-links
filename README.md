@@ -3,7 +3,7 @@
 
 ## Projects:
 1. [Momentum (JS)](#project-1-momentum)
-2. [Shelter (HTML/CSS/JS)](project-2-#shelter)
+2. [Shelter (HTML/CSS/JS)](#project-2-shelter)
 3. [Virtual Keyboard (JS)](#project-3-virtual-keyboard)
 
 
