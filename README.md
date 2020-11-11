@@ -1,5 +1,12 @@
 # portfolio-links
 
+
+## Projects:
+1. [Momentum (JS)](#project-1-momentum)
+2. [Shelter (HTML/CSS/JS)](project-2-#shelter)
+3. [Virtual Keyboard (JS)](#project-3-virtual-keyboard)
+
+
 ## Project #1: Momentum
 
 Momentum - аналог [одноимённого приложения](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=ru) интернет-магазина Chrome. Приложение показывает время и имя пользователя, его цель на текущий день. Фоновое изображение меняется в зависимости от времени суток. Для хранения данных приложение использует локальное хранилище - local storage.
@@ -37,7 +44,7 @@ https://rolling-scopes-school.github.io/lesnichiy-JS2020Q3/momentum/
   - элемены приложения оптимально занимают площадь страницы
   - приложение корректно отображается как на компьютере, так и на мобильных устройствах. Отсутствует горизонтальная полоса прокрутки. Минимальное разрешение экрана, при котором проверяется корректность отображения приложения - 320px
 
-## Project #2: Shelter (HTML/CSS/JS)
+## Project #2: Shelter
 
 Адаптивная вёрстка двух страниц - `Main Page` и `Pets Page` - согласно макета: [**Figmа shelter**](https://www.figma.com/file/RJO7A4D5K1V6FykBuSNIz4/shelter)
 
