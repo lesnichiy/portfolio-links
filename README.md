@@ -12,7 +12,7 @@
 Momentum - аналог [одноимённого приложения](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=ru) интернет-магазина Chrome. Приложение показывает время и имя пользователя, его цель на текущий день. Фоновое изображение меняется в зависимости от времени суток. Для хранения данных приложение использует локальное хранилище - local storage.
 
 ### Deploy:
-https://rolling-scopes-school.github.io/lesnichiy-JS2020Q3/momentum/
+https://lesnichiy.github.io/lesnichiy-JS2020Q3/momentum/
 
 ### Функционал
 
@@ -55,7 +55,7 @@ https://rolling-scopes-school.github.io/lesnichiy-JS2020Q3/momentum/
   - Меню в `Header` становится бургер меню.
 
 ### Deploy:
-https://rolling-scopes-school.github.io/lesnichiy-JS2020Q3/shelter/pages/main/index.html
+https://lesnichiy.github.io/lesnichiy-JS2020Q3/shelter/pages/main/index.html
 
 ### Функционал
 
@@ -133,7 +133,7 @@ https://rolling-scopes-school.github.io/lesnichiy-JS2020Q3/shelter/pages/main/in
 Проект по созданию виртуальной клавиатуры.
 
 ### Deploy:
-https://rolling-scopes-school.github.io/lesnichiy-JS2020Q3/virtual-keyboard/
+https://lesnichiy.github.io/lesnichiy-JS2020Q3/virtual-keyboard/
 
 ***Внимание!*** По умолчанию озвучивание нажатия клавиш включено. Будьте наготове.
 
