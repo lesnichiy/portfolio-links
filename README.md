@@ -11,6 +11,9 @@
 
 Momentum - аналог [одноимённого приложения](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=ru) интернет-магазина Chrome. Приложение показывает время и имя пользователя, его цель на текущий день. Фоновое изображение меняется в зависимости от времени суток. Для хранения данных приложение использует локальное хранилище - local storage.
 
+### Code:
+https://github.com/lesnichiy/lesnichiy-JS2020Q3/tree/momentum
+
 ### Deploy:
 https://lesnichiy.github.io/lesnichiy-JS2020Q3/momentum/
 
@@ -53,6 +56,9 @@ https://lesnichiy.github.io/lesnichiy-JS2020Q3/momentum/
 - 768px <= width < 1280px
 - 320px <= width < 768px
   - Меню в `Header` становится бургер меню.
+  
+### Code:
+https://github.com/lesnichiy/lesnichiy-JS2020Q3/tree/shelter
 
 ### Deploy:
 https://lesnichiy.github.io/lesnichiy-JS2020Q3/shelter/pages/main/index.html
@@ -131,6 +137,9 @@ https://lesnichiy.github.io/lesnichiy-JS2020Q3/shelter/pages/main/index.html
 ## Project #3: Virtual Keyboard
 
 Проект по созданию виртуальной клавиатуры.
+
+### Code:
+https://github.com/lesnichiy/lesnichiy-JS2020Q3/tree/keyboard
 
 ### Deploy:
 https://lesnichiy.github.io/lesnichiy-JS2020Q3/virtual-keyboard/
