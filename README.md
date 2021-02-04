@@ -2,12 +2,26 @@
 
 
 ## Projects:
-1. [Momentum (JS)](#project-1-momentum)
-2. [Shelter (HTML/CSS/JS)](#project-2-shelter)
-3. [Virtual Keyboard (JS)](#project-3-virtual-keyboard)
+1. [Connect Four Game](#project-1-connect-four-game) `React`, `Redux`, `Javascript`, `HTML`, `CSS`
+2. [Momentum](#project-2-momentum) `Javascript`
+3. [Shelter](#project-3-shelter)  `HTML`, `CSS`, `Javascript`
+4. [Virtual Keyboard](#project-4-virtual-keyboard) `Javascript`
+
+## Project #1: Connect Four Game
+`React`, `Redux`, `Javascript`, `HTML`, `CSS`
+
+### Code:
+https://github.com/lesnichiy/connect-four
+
+### Deploy:
+https://lesnichiy.github.io/connect-four/
+
+### Описание
+Четыре в ряд или Connect four — игра для двоих, в которой игроки сначала выбирают цвет фишек, а затем ходят по очереди, роняя фишки в ячейки вертикальной доски. Цель игры — расположить раньше противника подряд по горизонтали, вертикали или диагонали четыре фишки своего цвета. Подробно: https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D0%B5_%D0%B2_%D1%80%D1%8F%D0%B4
 
 
-## Project #1: Momentum
+## Project #2: Momentum
+`Javascript`
 
 Momentum - аналог [одноимённого приложения](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=ru) интернет-магазина Chrome. Приложение показывает время и имя пользователя, его цель на текущий день. Фоновое изображение меняется в зависимости от времени суток. Для хранения данных приложение использует локальное хранилище - local storage.
 
@@ -135,6 +149,7 @@ https://lesnichiy.github.io/lesnichiy-JS2020Q3/shelter/pages/main/index.html
 - При width < 768px на странице одновременно показаны 3 карточки питомцев.
 
 ## Project #3: Virtual Keyboard
+`React`, `Redux`, `Javascript`, `HTML`, `CSS`
 
 Проект по созданию виртуальной клавиатуры.
 
