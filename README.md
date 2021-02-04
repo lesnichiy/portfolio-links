@@ -62,6 +62,13 @@ https://lesnichiy.github.io/lesnichiy-JS2020Q3/momentum/
   - приложение корректно отображается как на компьютере, так и на мобильных устройствах. Отсутствует горизонтальная полоса прокрутки. Минимальное разрешение экрана, при котором проверяется корректность отображения приложения - 320px
 
 ## Project #2: Shelter
+`HTML`, `CSS`, `Javascript`
+
+### Code:
+https://github.com/lesnichiy/lesnichiy-JS2020Q3/tree/shelter
+
+### Deploy:
+https://lesnichiy.github.io/lesnichiy-JS2020Q3/shelter/pages/main/index.html
 
 Адаптивная вёрстка двух страниц - `Main Page` и `Pets Page` - согласно макета: [**Figmа shelter**](https://www.figma.com/file/RJO7A4D5K1V6FykBuSNIz4/shelter)
 
@@ -70,12 +77,6 @@ https://lesnichiy.github.io/lesnichiy-JS2020Q3/momentum/
 - 768px <= width < 1280px
 - 320px <= width < 768px
   - Меню в `Header` становится бургер меню.
-  
-### Code:
-https://github.com/lesnichiy/lesnichiy-JS2020Q3/tree/shelter
-
-### Deploy:
-https://lesnichiy.github.io/lesnichiy-JS2020Q3/shelter/pages/main/index.html
 
 ### Функционал
 
@@ -149,15 +150,15 @@ https://lesnichiy.github.io/lesnichiy-JS2020Q3/shelter/pages/main/index.html
 - При width < 768px на странице одновременно показаны 3 карточки питомцев.
 
 ## Project #3: Virtual Keyboard
-`React`, `Redux`, `Javascript`, `HTML`, `CSS`
-
-Проект по созданию виртуальной клавиатуры.
+`Javascript`
 
 ### Code:
 https://github.com/lesnichiy/lesnichiy-JS2020Q3/tree/keyboard
 
 ### Deploy:
 https://lesnichiy.github.io/lesnichiy-JS2020Q3/virtual-keyboard/
+
+Проект по созданию виртуальной клавиатуры.
 
 ***Внимание!*** По умолчанию озвучивание нажатия клавиш включено. Будьте наготове.
 
