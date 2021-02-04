@@ -61,7 +61,7 @@ https://lesnichiy.github.io/lesnichiy-JS2020Q3/momentum/
   - элемены приложения оптимально занимают площадь страницы
   - приложение корректно отображается как на компьютере, так и на мобильных устройствах. Отсутствует горизонтальная полоса прокрутки. Минимальное разрешение экрана, при котором проверяется корректность отображения приложения - 320px
 
-## Project #2: Shelter
+## Project #3: Shelter
 `HTML`, `CSS`, `Javascript`
 
 ### Code:
@@ -149,7 +149,7 @@ https://lesnichiy.github.io/lesnichiy-JS2020Q3/shelter/pages/main/index.html
 - При 768px <= width < 1280px на странице одновременно показаны 6 карточек питомцев.
 - При width < 768px на странице одновременно показаны 3 карточки питомцев.
 
-## Project #3: Virtual Keyboard
+## Project #4: Virtual Keyboard
 `Javascript`
 
 ### Code:
